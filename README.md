@@ -1,4 +1,4 @@
-https://blizzard-earth.github.io/Amazon-Home-Page/
+https://blizzard-earth.github.io/Dice-Game/
 
 Hay i made this first website using J.S.
 
